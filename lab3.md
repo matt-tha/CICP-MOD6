@@ -1,17 +1,8 @@
 #### Instructions
 
-1. Keep providing instrucions.
+1. View the modules list by clicking the modules tab at the bottom of the RPT pane. 
+2. Expand Metasploit and double click Setup Metasploit Integration. 
+3. Click ok to launch the module.
+4. This process takes three to four minutes to complete. 
 
-2. If this is the last lab then end with the next step:
-
-3. You have completed this block of instruction. Please read the conclusion at
-    ```
-    /root/THA/NAME-OF-LAB/Conclusion.md
-    ```
-
-4. If there are more labs in the series make sure you end with the next step:
-
-5. You have completed this lab. You can continue to lab 4 by following the instructions found at 
-    ```
-    /root/THA/NAME-OF-LAB/lab4.md
-    ``` 
+This concludes the lab exercise.
