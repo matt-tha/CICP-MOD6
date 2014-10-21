@@ -5,4 +5,4 @@
 3. Provide a workspace name and passphrase of your choosing. 
 4. Continue through the wizard with default settings to create your workspace. 
 
-This concludes lab exercise 2.
+This concludes lab exercise 2, continue to lab 3.

@@ -7,4 +7,4 @@
 5. This import should take approximately one minute.  
 6. Examine the newly imported entities. 
 
-This concludes lab exercise 4.
+This concludes this block of instruction.
