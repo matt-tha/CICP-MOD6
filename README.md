@@ -15,4 +15,4 @@ There is no required setup for this lab.
 
 #### Start the lab
 * Follow the instructions found at https://hackeracademy.com/lab/cicp-third-party-integration
-    ```/root/THA/CICP-MOD5B/lab1.md```
+    ```/root/THA/CICP-MOD6/lab1.md```
