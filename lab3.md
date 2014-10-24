@@ -5,4 +5,4 @@
 3. Click ok to launch the module.
 4. This process takes three to four minutes to complete. 
 
-This concludes lab exercise 3.
+This concludes lab exercise 3, continue to exercise 4.
